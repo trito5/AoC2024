@@ -8,6 +8,7 @@
 
 # project-specific
 **/secrets
+**/files
 
 # AWS User-specific
 .idea/**/aws.xml
